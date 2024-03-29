@@ -1,0 +1,3 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Development\Clases_Galaga_usfx\Definitions.Clases_Galaga_usfx.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Source\Clases_Galaga_usfx\NaveEnemiga.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Inc\Clases_Galaga_usfx\NaveEnemiga.generated.h

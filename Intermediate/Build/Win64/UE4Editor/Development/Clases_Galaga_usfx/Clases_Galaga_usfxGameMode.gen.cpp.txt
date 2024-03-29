@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Development\Clases_Galaga_usfx\Definitions.Clases_Galaga_usfx.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Source\Clases_Galaga_usfx/Clases_Galaga_usfxGameMode.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Source\Clases_Galaga_usfx\NaveEnemigaCaza.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Source\Clases_Galaga_usfx\NaveEnemiga.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Inc\Clases_Galaga_usfx\NaveEnemiga.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Inc\Clases_Galaga_usfx\NaveEnemigaCaza.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Clases_Galaga_usfx\Intermediate\Build\Win64\UE4Editor\Inc\Clases_Galaga_usfx\Clases_Galaga_usfxGameMode.generated.h

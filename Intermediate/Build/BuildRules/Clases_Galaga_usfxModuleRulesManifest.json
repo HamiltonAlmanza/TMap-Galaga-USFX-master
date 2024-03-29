@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Clases_Galaga_usfx\\Source\\Clases_Galaga_usfx\\Clases_Galaga_usfx.Build.cs",
+		"C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Clases_Galaga_usfx\\Source\\Clases_Galaga_usfx.Target.cs",
+		"C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Clases_Galaga_usfx\\Source\\Clases_Galaga_usfxEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Clases_Galaga_usfx",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Clases_Galaga_usfx\\Source\\Clases_Galaga_usfx.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Clases_Galaga_usfxEditor",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Clases_Galaga_usfx\\Source\\Clases_Galaga_usfxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

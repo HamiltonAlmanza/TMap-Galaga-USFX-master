@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Clases_Galaga_usfx.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AB9B8639-16E7-48FB-85D8-D72BE2604F94}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Clases_Galaga_usfx.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Clases_Galaga_usfxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{B2109DED-AA99-492E-B6BC-6773F7A25B9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Clases_Galaga_usfx">
+      <UniqueIdentifier>{BC76AE5F-C482-4561-BF11-CE57CEF8E6E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfx.Build.cs">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfx.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfx.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxGameMode.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxGameMode.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxPawn.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxPawn.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxProjectile.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Clases_Galaga_usfxProjectile.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemiga.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemiga.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaCaza.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaCaza.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaEspia.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaEspia.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaNodriza.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaNodriza.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaRebastecimiento.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaRebastecimiento.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaTransporte.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\NaveEnemigaTransporte.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Caza_kamikaze.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Caza_kamikaze.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Caza_Teletransportadora.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Caza_Teletransportadora.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Espia_holografico.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Espia_holografico.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Espia_Invisible.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Espia_Invisible.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Nodriza_Ataque.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Nodriza_Ataque.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Nodriza_Defensa.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Nodriza_Defensa.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Rebastecimiento_Armamento.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Rebastecimiento_Armamento.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Rebastecimiento_Potenciador.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Rebastecimiento_Potenciador.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Transporte_Elite.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Transporte_Elite.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Clases_Galaga_usfx\Nave_Transporte_Invisible.cpp">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Clases_Galaga_usfx\Nave_Transporte_Invisible.h">
+      <Filter>Source\Clases_Galaga_usfx</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
